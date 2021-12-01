@@ -26,6 +26,3 @@
     *  Scene 场景
     *  Script 脚本
     *  UnityChan 人物
-
-# 项目地址
-https://github.com/PPPerryPan/A-Maze-Game
